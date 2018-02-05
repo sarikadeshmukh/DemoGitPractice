@@ -6,8 +6,8 @@ public class DemoMain {
 	}
 	public  static void displayGreet()
 	{
-		System.out.println("Within Main1");
-		System.out.println("Within Main2");
+		System.out.println("demo text with updated text");
+		System.out.println("hello world");
 			}
 
 }
