@@ -6,6 +6,7 @@ public class DisplayClass {
 		for(String s : name){
 			System.out.println("next string " + s);
 			System.out.println("demo");
+			System.out.println("demo2");
 		}
 	}
 }
