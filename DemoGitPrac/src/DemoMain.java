@@ -8,6 +8,9 @@ public class DemoMain {
 	{
 		System.out.println("within main");
 		System.out.println("within main");
+		System.out.println("within main1");
+		System.out.println("within main2");
+		System.out.println("within main3");
 	}
 
 }
