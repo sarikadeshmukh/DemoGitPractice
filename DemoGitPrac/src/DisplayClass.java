@@ -4,7 +4,7 @@ public class DisplayClass {
 	public void display() {
 for(String s:name)
 {
-	System.out.println("Next String :"+ s);
+	System.out.println("");
 }
 }
 }
