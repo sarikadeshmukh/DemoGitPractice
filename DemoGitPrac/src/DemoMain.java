@@ -7,6 +7,7 @@ public class DemoMain {
 	public  static void displayGreet()
 	{
 		System.out.println("within main");
+		System.out.println("within main");
 	}
 
 }
