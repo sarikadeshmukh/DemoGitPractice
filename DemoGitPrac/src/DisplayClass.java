@@ -1,7 +1,10 @@
 public class DisplayClass {
 
-	public void display()
-	{
-		System.out.println("In Submain");
-	}
+	String name[]= {"sarika","bhakti","saddam"};
+	public void display() {
+for(String s:name)
+{
+	System.out.println("Next String :"+ s);
+}
+}
 }
