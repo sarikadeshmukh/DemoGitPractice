@@ -7,8 +7,7 @@ public class DemoMain {
 	public  static void displayGreet()
 	{
 		System.out.println("WITHIN MAIN1");
-		System.out.println("WITHIN mAIN2");
-		
-	}
+		System.out.println("WITHIN MAIN2");
+			}
 
 }
