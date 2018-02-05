@@ -6,11 +6,9 @@ public class DemoMain {
 	}
 	public  static void displayGreet()
 	{
-		System.out.println("within main");
-		System.out.println("within main");
-		System.out.println("within main1");
-		System.out.println("within main2");
-		System.out.println("within main3");
+		System.out.println("WITHIN MAIN1");
+		System.out.println("WITHIN mAIN2");
+		
 	}
 
 }
